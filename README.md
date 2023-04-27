@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @STARKILLER-1
+- 👋 Hi, I’m STARKILLER
 - 👀 I’m interested in Python, JavaScript
 - 🌱 I’m currently learning in MIREA - Russian Technological University
 
