@@ -1,5 +1,5 @@
 - 👋 Hi, I’m STARKILLER
-- 👀 I’m interested in Python, JavaScript
+- 👀 I’m interested in Python
 - 🌱 I’m currently learning in MIREA - Russian Technological University
 
 <!---
