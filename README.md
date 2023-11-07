@@ -2,11 +2,10 @@
 
 👀 I’m interested in Python
 
-🌱 I’m currently studying at MIREA - Russian Technological University
 
 Key Skills
 
-Languages Known: Russian - Native; English - B2 - Intermediate-Advanced
+Languages Known: English - B2 - Intermediate-Advanced
 
 Skills: Python, Linux, Git, MySQL, Database Management, Docker, API, Rust, Svelte, HTML, CSS, Nginx, Gunicorn
 
