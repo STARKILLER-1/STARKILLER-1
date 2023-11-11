@@ -4,7 +4,7 @@
 
 Work:
 
-I work as a middle automation engineer. I make parsing services and many more.
+I work as a middle automation engineer. I make parsing services and many more things.
 
 Key Skills
 
