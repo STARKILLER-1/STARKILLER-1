@@ -2,6 +2,9 @@
 
 👀 I’m interested in Python
 
+Work:
+
+I work as a middle automation engineer. I make parsing services and many more.
 
 Key Skills
 
