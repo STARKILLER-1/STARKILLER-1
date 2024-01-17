@@ -4,13 +4,13 @@
 
 Work:
 
-I work as a middle automation engineer. I make parsing services and many more things.
+I work as a middle python automation lead. I make parsing services and many more things.
 
 Key Skills
 
 Languages Known: English - B2 - Intermediate-Advanced
 
-Skills: Python, Linux, Git, MySQL, Database Management, Docker, API, Rust, Svelte, HTML, CSS, Nginx, Gunicorn
+Skills: Python, Linux, Git, MySQL, Database Management, Docker, API, Rust, Svelte, HTML, CSS, Nginx, Gunicorn, Django, Requests, PostgreSQL
 
 Additional Information
 
@@ -33,4 +33,3 @@ Linux: Experienced in setting up and configuring web servers, deploying VPN usin
 Office Applications: Proficient in basic office applications (MS Word, Excel, PowerPoint), Adobe Photoshop.
 
 Soft Skills: Possess good communication skills, ability to learn quickly, responsibility, and self-organization.
-
